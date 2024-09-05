@@ -1,5 +1,7 @@
 # Implementation of Instruction Backtranslation for Enhanced LLM Training
 
+# Model link: https://huggingface.co/AmarNagargoje/backward_model_llama2_7b
+
 ## Abstract
 This project, implements the groundbreaking instruction backtranslation technique, inspired by the seminal work of Xian Li et al. from Meta, as detailed in their paper [Self-Alignment with Instruction Backtranslation](https://arxiv.org/pdf/2308.06259). Our implementation demonstrates the entire pipeline from training a seed model to self-augmentation and self-curation, culminating in the fine-tuning of a more powerful model. This scalable method showcases how large language models (LLMs) can autonomously improve their instruction-following capabilities.
 
